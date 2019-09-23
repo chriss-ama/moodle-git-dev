@@ -1,0 +1,3 @@
+[submodule "admin/tool/pluginskel"]
+	path = admin/tool/pluginskel
+	url = git@github.com:chriss-ama/moodle-tool_pluginskel.git
