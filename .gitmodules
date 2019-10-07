@@ -1,3 +1,7 @@
 [submodule "admin/tool/pluginskel"]
 	path = admin/tool/pluginskel
 	url = git@github.com:chriss-ama/moodle-tool_pluginskel.git
+[submodule "/var/www/learn-git.modelaircraft.org/moodle_htdocs/auth/saml2sso"]
+	path = /var/www/learn-git.modelaircraft.org/moodle_htdocs/auth/saml2sso
+	url = git@github.com:chriss-ama/moodle-auth_saml2sso.git
+	branch = production
